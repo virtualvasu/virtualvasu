@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack, DSA.
 - 💞️ I’m looking to collaborate on Web dev projects.
 
-#Tech Stack
+# Tech Stack
 
 
 <!---
