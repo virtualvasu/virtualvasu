@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virtualvasu
 - 👀 I’m interested in Web development and blockchain.
-- 🌱 I’m currently learning MERN stack, DSA.
-- 💞️ I’m looking to collaborate on Web dev projects.
+- 🌱 I’m currently learning MERN stack, DSA, solidity and Bitcoin Core.
+- 💞️ I’m looking to collaborate on Web dev and blockchain related projects.
 - --------------------------
 
 # 🌐 Connect with me: 
