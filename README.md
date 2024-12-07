@@ -1,6 +1,3 @@
-Here’s a cleaner and well-organized version of your GitHub README:
-
----
 
 # 👋 Hi, I’m @virtualvasu  
 
