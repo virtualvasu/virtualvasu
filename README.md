@@ -6,6 +6,7 @@
 - 🌱 Currently learning **MERN stack**, **DSA**, **Solidity**, and **Bitcoin Core**.  
 - 💞️ Looking to collaborate on **Web Development** and **Blockchain-related projects**.  
 
+
 ---
 
 ## 🌐 Connect with Me  
@@ -19,7 +20,9 @@
   </a>
 </div>  
 
----
+I have also built some projects on **Speedrun Ethereum**. You can check my profile and explore my work [here](https://speedrunethereum.com/builders/0x3d7178De2A7d863629d429635db30A687A0A2f65).  
+
+---  
 
 ## 💻 Tech Stack  
 
