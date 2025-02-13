@@ -8,7 +8,13 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 - 💡 Interested in **Web Development**, **Machine Learning**, and **Blockchain Development**
 - 👯 Looking to collaborate on open-source projects
 - 📫 Reach me at: [virtualvasu624@gmail.com](mailto:virtualvasu624@gmail.com)
+
+## 🌐 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/garg-vasu/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@virtualvasu)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ExpertButterscotch14/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/virtualvasu624)
+
 
 
 ## 💻 Tech Stack
@@ -62,13 +68,3 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=virtualvasu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Connect with Me
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/garg-vasu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/virtualvasu624">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
