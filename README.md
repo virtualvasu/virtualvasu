@@ -8,9 +8,12 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 - 💡 Interested in **Web Development**, **Machine Learning**, and **Blockchain Development**
 - 👯 Looking to collaborate on open-source projects
 - 📫 Reach me at: [virtualvasu624@gmail.com](mailto:virtualvasu624@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/garg-vasu/)
+
 
 ## 💻 Tech Stack
 
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
