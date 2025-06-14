@@ -57,9 +57,6 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 
 
 
-## 📊 GitHub Stats
-
-![Vasu Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtualvasu&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
