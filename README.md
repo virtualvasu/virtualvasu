@@ -1,4 +1,3 @@
-# 💫About Me :
 # 👋 Hi there, I'm Vasu Garg
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast. 
 
