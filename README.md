@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 
 ## 🚀 About Me
 I am a full-stack blockchain developer and a junior at IIT. I’ve built and shipped products across smart contracts, backend systems in Node.js and Python, and full-stack integrations across multiple chains.
-Over time, I’ve become deeply interested in zero-knowledge systems, cross-chain mechanics, and designing secure on-chain/off-chain workflows. You can find my work here: https://github.com/virtualvasu
+Over time, I’ve become deeply interested in zero-knowledge systems, cross-chain mechanics, and designing secure on-chain/off-chain workflows.
 In my free time, I enjoy reading philosophy and history.
 
 - 📫 Reach me at: [virtualvasu624@gmail.com](mailto:virtualvasu624@gmail.com)
